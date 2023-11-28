@@ -8,8 +8,4 @@ const validateId = (id) => {
 module.exports = validateId
 
 
-/*
-TODO: 
-
--find appropriate status code for this 
-*/
+ 
